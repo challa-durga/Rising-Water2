@@ -1,7 +1,8 @@
-# Project Design Phase
+# Project Development Phase
 
 This folder contains:
-- Proposed Solution
-- Solution Architecture
-- Data Flow Diagram
-- Technology Stack
+- Dataset
+- Jupyter Notebook
+- Python Source Code
+- Machine Learning Model
+- Flask Application
