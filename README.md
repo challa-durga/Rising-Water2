@@ -1,6 +1,7 @@
-# Ideation Phase
+# Project Design Phase
 
 This folder contains:
-- Brainstorming
-- Problem Statement
-- Empathy Map
+- Proposed Solution
+- Solution Architecture
+- Data Flow Diagram
+- Technology Stack
