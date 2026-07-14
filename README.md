@@ -1,6 +1,3 @@
-# Testing
+# Dataset
 
-This folder contains:
-- Test Cases
-- Test Results
-- Model Evaluation
+This folder contains the dataset used for training and testing the machine learning model.
