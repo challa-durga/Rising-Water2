@@ -1,3 +1,6 @@
-# Dataset
+# Deployment
 
-This folder contains the dataset used for training and testing the machine learning model.
+This folder contains:
+- Deployment Guide
+- IBM Cloud Deployment
+- Flask Deployment
