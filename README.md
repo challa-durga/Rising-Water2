@@ -1,8 +1,6 @@
-# Project Development Phase
+# Testing
 
 This folder contains:
-- Dataset
-- Jupyter Notebook
-- Python Source Code
-- Machine Learning Model
-- Flask Application
+- Test Cases
+- Test Results
+- Model Evaluation
